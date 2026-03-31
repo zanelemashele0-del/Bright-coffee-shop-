@@ -1,8 +1,10 @@
 # Bright-coffee-shop 📊Overview
 This repository contains the presentation slides for a comprehensive Sales Performance Review conducted for Bright Coffee Shop, covering the period from January to June 2023.
 
+
 📝Aim
 The analysis aims to identify key sales trends, customer behavior patterns, and product performance drivers to inform strategic decisions for accelerating revenue growth and optimizing operational efficiency.
+
 
 🔍📈Key Insights
 🗓️Robust Growth: Overall sales show a strong upward trend from 12% in Jan to 24% in June.
@@ -16,11 +18,14 @@ Tea accounts for 28.1% of revenue.
 🎯💡Strategic Recommendations
 The presentation proposes a dual-focus strategy: aggressive amplification of high-performing assets coupled with targeted optimization of underutilized potential. Key recommendations include:
 
+
+
 Capitalizing on Core Strengths: Maximizing morning revenue through targeted campaigns and elevating core coffee/tea offerings.
 Strategic Bundling: Implementing combos to increase average transaction value, pairing high-demand items with slower-moving products.
 Optimizing Underperforming Products: Systematically addressing low-revenue items through targeted promotions or potential phasing out if no improvement.
 Enhancing Customer Experience: Introducing a mobile ordering app and investing in ongoing staff training for upselling and product knowledge.
 Data-Driven Decisions: Continuously tracking promotion redemption, bundle performance, and leveraging customer feedback and purchase patterns to refine future strategies.
+
 🛠️ Tools & Technologies Used
 🧠 Miro – for project planning and workflow mapping
 📊 Excel – for data cleaning, preparation, and pivot table analysis
